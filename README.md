@@ -27,8 +27,8 @@ Follow these steps to set up and run the project:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/MohammadAminar/Node.js-Project-with-Docker.git
+   cd Node.js-Project-with-Docker
 
 2. **Build and run the project using Docker Compose**:
 ```
